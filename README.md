@@ -1,2 +1,1 @@
-# calculation_pi_spark_cluster
-In this project an aproximation of pi is calculated through distributing the calculations on 4 nodes and obtaining back the result.
+In this project an aproximation of pi is calculated through distributing the calculations on 4 nodes and obtaining back the result. There is a way of aproximating pi, that is generating vectors of two dimensions, with each of the two values between 0 and 1 and then chequing if the square root of the two operands are less than one. You repeat this many times and the fraction of points approaches π/4.
